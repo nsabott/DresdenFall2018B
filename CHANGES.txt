@@ -1,3 +1,5 @@
+This is from Neil Sabott
+
 Done by Cristian Andrade
 - Color to the foreground on stickers
 - Simple HTML Format to stickers 
